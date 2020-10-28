@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Yanone+Kaffeesatz:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2? family = Sedgwick + Ave & display = swap');
+#fondo {
+    max-width: 100%;
+    height: 100vh;
+    background: url("../img/señas_amor.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.titulo{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.texto{
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 25px;
+}
+
+.lmenu{
+    font-family: 'Secular One', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.lmenu:hover{
+    font-family: 'Secular One', sans-serif;
+    font-size: 20px;
+    color: mediumseagreen;
+}
+
+.mr-7{
+    margin-right: 7rem;
+}
+
+.mt-7{
+    margin-top: 8rem;
+}
+
+.color2 {
+    background: rgba(0, 0, 0, 0.9);
+    transition: 2s;
+}
+
+.cardcolor {
+    border-color: mediumseagreen;
+}
+
+.cardcolor:hover {
+    box-shadow: 0px 5px 5px 5px rgba(0, 0, 0, 0.9);
+}
+
+.cardcolor2 {
+    border-color: #000000;
+}
+
+.cardcolor2:hover {
+    box-shadow: 0px 5px 5px 5px rgba(104, 189, 81, 0.9);
+}
+
+.text-nombre {
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 15px;
+}
